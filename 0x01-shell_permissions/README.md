@@ -12,3 +12,4 @@ Look in the mirror
 Directories
 More directories
 Change group
+Symbolic links
