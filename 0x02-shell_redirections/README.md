@@ -7,3 +7,4 @@ What’s new
  It must be in that file
 Count that word
 What's next?
+I hate bins
