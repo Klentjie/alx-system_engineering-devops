@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /usr/bin/action
+echo /usr/action/*
